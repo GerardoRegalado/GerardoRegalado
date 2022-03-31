@@ -1,5 +1,5 @@
 ### <h1> Hello Github 👋  Welcome to my repositories </h1>
-![image](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![image](https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76119e06caddcd858b077f7bfea380625db3a8c8c4b7&rid=giphy.gif&ct=g)
 
 <h2> My name is Gerardo Regalado </h2>
 
