@@ -11,11 +11,14 @@ I really enjoy programming with a cup of coffee and a good podcast or sometimes 
 </h4>
 
 <h5> 
-- 🔭 I’m currently working on <strong>JavaScript, ES6, MongoDB, Express.js, React.js, Node.js, HTML & CSS </strong> <br>
-- 💬 Ask me about science, technology and mathematics, I really loves those topics <br>
-- ⚡ Fun fact: I loves to play videogames, lets go Warzone! <br>
+- 🔭 I’m currently working on <strong>JavaScript, ES6, MongoDB, Express.js, React.js, Node.js, HTML & CSS </strong> 
+  <br>
+- 💬 Ask me about science, technology and mathematics, I really loves those topics 
+  <br>
+- ⚡ Fun fact: I loves to play videogames, lets go Warzone! 
+  <br>
 - 📫 How to reach me: <br>
-
+<br>
   <ul>
     <li> On twitter: @GRRDevs! </li> 
     <li> On Linkedin: Gerardo Regalado </li> 
