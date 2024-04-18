@@ -11,6 +11,7 @@
 
 ###
 
+<h3 align="left"> Technologies 💻 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -93,7 +94,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GerardoRegalado/GerardoRegalado/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="120" src="https://raw.githubusercontent.com/GerardoRegalado/GerardoRegalado/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
 
